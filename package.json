@@ -1,0 +1,13 @@
+{
+  "name": "webada",
+  "description": "Simplest web server",
+  "version": "0.1.1",
+  "author": "Manolo Santos <manolo.santos@gmail.com>",
+  "dependencies": {
+    "connect": ">=1.8.0",
+    "cli": ">=0.4.0"   
+  },
+  "keywords": ["web", "connect", "server", "development"],
+  "repository": "git://github.com/undo76/webada"
+}
+
